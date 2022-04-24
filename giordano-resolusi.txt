@@ -1,5 +1,10 @@
 GLENDYVAL PLANNING-IN SYAA ALLAH
 -Menjadi Web Master ( expert )
+  *CSS 3
+  *HTML 5
+  *JavaScripts
+  *NodeJS
+  *GitHUB
 -Punya Rumah ( Beli rumah cash )
 -Punya Mobil (Beli mobil Cash )
 -Punya usaha ( Pengusaha )
